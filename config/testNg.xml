@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.0dtd">
+<suite name="Test" parallel="tests" thread-count="1" verbose="1">
+
+<test name="TestSuite_basket" enabled="true">
+<parameter name="src/test/resources"
+value="src/test/resources/features/TestSuite_basket.feature" />
+
+</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</suite>
